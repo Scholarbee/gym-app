@@ -17,10 +17,10 @@ const App = () => {
     <Router>
       <Navbar />
       <Hero />
-      <WorkoutSessions />
+     // <WorkoutSessions />
       <Gallery />
-      <Pricing />
-      <Contact />
+   //   <Pricing />
+     // <Contact />
       <BMICalculator />
       <Footer />
       <ToastContainer theme="dark" position="top-center" />
